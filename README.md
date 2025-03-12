@@ -11,7 +11,7 @@
 ## Screenshots
 
 ###Home Screen
-![Home Screen](images/Home.png)
+(images/Home.png)
 
 ###Add Task Screen
 ![Workout Session](images/addTask.png)
