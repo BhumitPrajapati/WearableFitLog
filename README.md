@@ -37,8 +37,3 @@ The WearableFitLog App is designed to help you track your workout sessions effic
 3. Track your progress and end the session when done.
 4. Review your session history to monitor your progress over time.
 
-## Contributing
-Contributions are welcome! Please fork the repository and submit a pull request.
-
-## License
-This project is licensed under the MIT License.
