@@ -10,6 +10,11 @@
 - User-friendly interface for Wear OS devices
 ## Screenshots
 
+###Home Screen
 ![Home Screen](images/Home.png)
+
+###Add Task Screen
 ![Workout Session](images/addTask.png)
+
+###View traking screen
 ![Session History](images/viewTraking.png)
