@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:gravity="center"
+    tools:context=".activity.MainActivity">
+
+    <!-- TextView to display the duration and calories burned -->
+    <EditText
+        android:id="@+id/inputWorkout"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:hint="@string/workout_type_hint"
+        android:importantForAutofill="no"
+        android:inputType="textCapWords"
+        android:textColor="@color/gray"
+        android:imeOptions="actionDone"
+        android:minHeight="48dp"
+        android:padding="8dp"
+        android:maxLines="1"
+        android:textColorHint="#5003DAC5" />
+
+    <!-- TextView to display the timer in HH:MM:SS format -->
+    <TextView
+        android:id="@+id/textTimer"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textColor="@color/colorAccent"
+        android:text="@string/timer_initial"
+        android:textSize="@dimen/timer_text_size"
+        android:layout_marginTop="@dimen/timer_margin_top"
+        />
+
+    <!-- Button to start or stop the workout session -->
+    <Button
+        android:id="@+id/buttonStartStop"
+        style="?android:attr/borderlessButtonStyle"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/start"
+        android:layout_marginTop="@dimen/button_margin_top"
+
+        android:textColor="@color/colorAccent" />
+
+</LinearLayout>
