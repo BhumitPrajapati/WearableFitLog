@@ -11,15 +11,15 @@ The WearableFitLog App is designed to help you track your workout sessions effic
 ## Screenshots
 
 ### Home Screen
-![Home Screen](images/home_screen.png)
+![Home Screen](images/Home.png)
 *The main screen where you can start a new workout session.*
 
 ### Workout Session
-![Workout Session](images/workout_session.png)
+![Workout Session](images/addTask.png)
 *Track your workout duration and calories burned in real-time.*
 
 ### Session History
-![Session History](images/session_history.png)
+![Session History](images/viewTraking.png)
 *Review your past workout sessions with detailed information.*
 
 ## Installation
