@@ -11,10 +11,10 @@
 ## Screenshots
 
 - Home Screen
-(images/Home.png)
+![Home Screen](images/Home.png)
 
 - Add Task Screen
-(images/addTask.png)
+![Workout Session](images/addTask.png)
 
 - View traking screen
-(images/viewTraking.png)
+![Session History](images/viewTraking.png)
